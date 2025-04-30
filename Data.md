@@ -10,6 +10,8 @@
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 # Why Friction Matters in Data & Analytics
 
 Friction is the level of **difficulty and manual effort required by an engineer in their daily work** — Efficient data processes allow business teams to access reliable insights **without delays or distractions**. The level of friction can significantly impact productivity, costs, and decision-making speed. A low level of friction means an engineer can concentrate on value-add tasks, for instance, new reports or analysis. A high level of friction means the engineer is spending all their time on keeping the plumbing running and not adding new value.
@@ -31,6 +33,8 @@ To illustrate this, let’s compare **data friction** to a **daily commute**. Th
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 # Tool types used by modern data teams
 
 | **Category**              | **Purpose-Built Tools (e.g., Qlik Replicate, dbt)** | **Framework-Based Platforms (e.g., Microsoft Fabric, AWS Glue)** | **Pure Coding (e.g., Python, Spark, SQL)** |
@@ -43,6 +47,10 @@ To illustrate this, let’s compare **data friction** to a **daily commute**. Th
 | **Scalability** | Optimized for **high-speed ingestion or transformation** without extra manual tuning | Can scale but needs **manual performance optimization** | **Highly customizable scalability**, but requires **significant engineering effort** |
 | **Flexibility** | **Limited customization**—built for a specific purpose but does it efficiently | **Highly flexible**, supporting multiple workflows, but requires hands-on engineering work | **Maximum flexibility**—custom solutions tailored exactly to business needs |
 | **Monitoring & Troubleshooting** | **Centralized dashboards** for plug-and-play monitoring | Logs and monitoring require configuration across multiple tools | **Must build logging & monitoring manually** using custom scripts and third-party tools |
+
+---
+
+<div style="page-break-after: always;"></div>
 
 ## Which Approach is Best?
 
@@ -57,7 +65,7 @@ Imagine you’re running a shipping company. You have **two options** for moving
 1️⃣ **You buy cheap trucks with no automation, requiring drivers to manually track routes, log deliveries, and troubleshoot breakdowns. The trucks work, but every day, you lose hours on inefficiencies.**  
 2️⃣ **You invest in modern trucks with GPS tracking, automated inventory updates, and predictive maintenance alerts. They cost more upfront, but drastically reduce time spent on logistics and problem-solving.**  
 
-At first glance, **option 1 ms cheaper—but over time, its hidden costs** (delays, manual work, lost efficiency) make it **far more expensive** than the smarter investment in option 2.
+At first glance, **option 1 seems cheaper, but over time, its hidden costs** (delays, manual work, lost efficiency) make it **far more expensive** than the smarter investment in option 2
 
 ## The Same Principle Applies to Data & Analytics
 
@@ -84,6 +92,8 @@ With the wrong tools, **real-time insights, automation, and advanced analytics b
 📌 **Investing in the right technology accelerates insights, reduces engineering overhead, and drives smarter decision-making**, saving money **in the long run**.  
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 # High-Level Categories of Data Ingestion Approaches
 
